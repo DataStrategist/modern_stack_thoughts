@@ -2,6 +2,7 @@
 
 ## modern experience
  - https://benn.substack.com/p/the-modern-data-experience
+ - https://medium.com/@Tonyseale
  - Minerva - HUMANS - https://medium.com/airbnb-engineering/how-airbnb-achieved-metric-consistency-at-scale-f23cc53dea70
 
 ## mesh
